@@ -7,15 +7,6 @@ The product configurator modules suite prevents automatic generation of variants
 
 You can always view our latest unreleased changes on our runbot by [clicking here](http://runbot.pledra.com)
 
-
-# Contribute & help us improve
-
-The Odoo product configurator module suite is the result of a community effort. Support from users was key to start this project and it is key for keeping it alive and opensource.
-
-Consider donating or contacting us for other funding options (invoice / pre-release etc) in order support and maintain the modules opensource. (contact@pledra.com)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RZHQEDQW7Q8JS)
-
 # Upgrades & Roadmap
 
 * Product configurator is now an app and has a root main menu.
